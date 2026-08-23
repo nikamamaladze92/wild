@@ -47,10 +47,3 @@ function FormRow({ label, error, children }) {
 }
 
 export default FormRow;
-//  <Input
-//         type="text"
-//         id="name"
-//         {...register("name", {
-//           required: "This field is required",
-//         })}
-//       />
