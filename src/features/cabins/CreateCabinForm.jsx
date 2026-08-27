@@ -11,15 +11,6 @@ import { createCabin } from "../../services/apiCabins";
 import toast from "react-hot-toast";
 import FormRow from "../../ui/FormRow";
 
-//check the file
-//check the file
-
-//check the file
-
-//check the file
-//check the file
-//check the file
-
 const FormRow2 = styled.div`
   display: grid;
   align-items: center;
