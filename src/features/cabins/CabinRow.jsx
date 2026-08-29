@@ -4,6 +4,21 @@ import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { deleteCabin } from "../../services/apiCabins";
 import toast from "react-hot-toast";
 
+//check  later
+//check  later
+
+//check  later
+//check  later
+//check  later
+//check  later
+
+//check  later
+//check  later
+//check  later
+//check  later
+//check  later
+//check  later
+
 const TableRow = styled.div`
   display: grid;
   grid-template-columns: 0.6fr 1.8fr 2.2fr 1fr 1fr 1fr;
