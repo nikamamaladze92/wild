@@ -3,13 +3,6 @@ import Button from "../../ui/Button";
 import CreateCabinForm from "./CreateCabinForm";
 import Modal from "../../ui/Modal";
 
-//check  later
-//check  later
-//check  later
-//check  later
-//check  later
-//check  later
-
 function AddCabin() {
   return (
     <Modal>
